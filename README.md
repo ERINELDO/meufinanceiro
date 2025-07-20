@@ -1,6 +1,6 @@
 # meufinanceiro
 Sistema de Controle Financeiro Pessoal 
-Em Construção...
+- Em Construção...
 
 - Esse sistema foi baseado em estratégicas de organização financeira mais eficiente do planeta, foi baseado em todo o livro chamado
   " O homem mais rico da babilonia "
